@@ -76,5 +76,5 @@ address with an instance.
 EIP Assocations can be imported using their association ID.
 
 ```
-$ terraform import aws_eip_association.test eipassoc-ab12c345
+$ terraform import aws_eip_association.test 52.0.0.0
 ```
